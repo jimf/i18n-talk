@@ -1,0 +1,1 @@
+Sale begins {start, date, medium}

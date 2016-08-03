@@ -1,0 +1,2 @@
+I have {numCats, number} cats.
+Almost {pctBlack, number, percent} of them are black.

@@ -1,0 +1,1 @@
+Coupon expires at {expires, time, short}

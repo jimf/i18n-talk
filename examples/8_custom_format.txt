@@ -1,0 +1,10 @@
+Your total is {total, number, usd}
+
+{
+  "number": {
+    "usd": {
+      "style": "currency",
+      "currency": "USD"
+    }
+  }
+}
