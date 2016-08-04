@@ -1,4 +1,4 @@
-{taxableArea select,
+{taxableArea, select,
   yes {An additional {taxRate, number, percent} tax will be collected.}
-  other {No taxes applied.}
+  other {No taxes apply.}
 }

@@ -1,4 +1,4 @@
-You have {itemCount, plural
+You have {itemCount, plural,
   =0 {no items}
   one {# item}
   other {# items}

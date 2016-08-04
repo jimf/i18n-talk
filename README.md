@@ -5,6 +5,9 @@
 This repo contains resources for my [BucksCoJS][] lightning talk on i18n, l10n,
 and [ICU message syntax](http://userguide.icu-project.org/formatparse/messages).
 
+To learn more, be sure to check out the fantastic
+[Format.js Getting Started docs](http://formatjs.io/guides/).
+
 ## Intl-Live Links
 
 - [Application][Intl-Live]
